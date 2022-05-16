@@ -28,7 +28,7 @@
 \
 **Architecture**
 *************
-![my_image](https://github.com/aniketbote/bubble/blob/master/Architecture/Bubble_Architecture.png)
+![my_image](https://github.com/as15858/Bubble/blob/main/Architecture/Bubble_Architecture.png)
 
 \
 **AWS Services:**
@@ -60,7 +60,7 @@
 \
 **Team Members:**
 ******
+* Aniket Saliya 
 * Aniket Bote [Github](https://github.com/aniketbote)
-* Aniket Saliya [Github](https://github.com/as15858)
 * Archil Chovatiya [Github](https://github.com/ArchilChovatiya)
 * Mayank Bhandari [Github](https://github.com/mayankrb)
