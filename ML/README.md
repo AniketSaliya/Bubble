@@ -12,12 +12,12 @@
 * After generating sentence embeddings we used cosine similarity to find the k-most similar documents from the entire corpus.
 
 *****************************
-![image1](https://github.com/aniketbote/bubble/blob/master/ML/all-MiniLM-L6-v2.PNG)
+![image1](https://github.com/as15858/Bubble/blob/main/ML/all-MiniLM-L6-v2.PNG)
 ************************
-![image2](https://github.com/aniketbote/bubble/blob/master/ML/all-mpnet-base-v2.PNG)
+![image2](https://github.com/as15858/Bubble/blob/main/ML/all-mpnet-base-v2.PNG)
 **********************
-![image3](https://github.com/aniketbote/bubble/blob/master/ML/multi-qa-distilbert-cos-v1.PNG)
+![image3](https://github.com/as15858/Bubble/blob/main/ML/multi-qa-distilbert-cos-v1.PNG)
 *****************
-![image4](https://github.com/aniketbote/bubble/blob/master/ML/multi-qa-mpnet-base-dot-v1.PNG)
+![image4](https://github.com/as15858/Bubble/blob/main/ML/multi-qa-mpnet-base-dot-v1.PNG)
 *****************************
-![image5](https://github.com/aniketbote/bubble/blob/master/ML/use_projection.PNG)
+![image5](https://github.com/as15858/Bubble/blob/main/ML/use_projection.PNG)

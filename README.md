@@ -43,7 +43,8 @@
 * AWS SQS
 * AWS Comprehend
 * AWS CloudWatch
-* DynamoDB
+* AWS DynamoDB
+* AWS OpenSearch
 
 \
 **Product Features:**
