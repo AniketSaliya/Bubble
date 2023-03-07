@@ -3,9 +3,9 @@
 ### Online resource for NYU
 ------------------------------------------------
 \
-**Project Link:**
+**Project Video Link:**
 *************************
-[Bubble](http://bubble-nyu.s3-website-us-east-1.amazonaws.com)
+[Bubble]( https://clipchamp.com/watch/nbpgfYjEcQV)
 
 \
 **Video Presentation**
